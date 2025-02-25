@@ -11,12 +11,12 @@ This repository contains the Capstone Project for the **Meta Back-End Developer*
 
 
 ## 🛠️ **Technologies Used**  
-- Backend Framework: Django (Python).
-- Database: PostgreSQL / MySQL.
-- Authentication: JWT / OAuth 2.0.
-- Version Control: Git & GitHub.
-- Testing: PyTest / Postman.
-- Deployment: Docker / AWS / Render / Heroku.
+- **Backend Framework**: Django (Python).
+- **Database**: PostgreSQL / MySQL.
+- **Authentication**: JWT / OAuth 2.0.
+- **Version Control**: Git & GitHub.
+- **Testing**: PyTest / Postman.
+- **Deployment**: Docker / AWS / Render / Heroku.
 
 ## 💻 **Getting Started**
 
