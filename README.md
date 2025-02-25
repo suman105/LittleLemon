@@ -52,7 +52,7 @@ Run unit and integration tests using:
 ## 🚀 **Deployment**
 To deploy using Docker:
 ```sh
-  docker build -t meta-backend .
+  docker build -t meta-backend
   docker run -p 8000:8000 meta-backend
 ```
 Or deploy to AWS/Heroku following respective guidelines.
