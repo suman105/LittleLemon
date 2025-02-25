@@ -20,23 +20,23 @@ This repository contains the Capstone Project for the **Meta Back-End Developer*
 
 ## 💻 **Getting Started**
 
-### 1️⃣ ***Prerequisites***
+### 1️⃣ **Prerequisites**
 Ensure you have the following installed:
 - Python
 - PostgreSQL / MySQL (as per project database)
 - Git
 - Docker (optional for containerization)
 
-### 2️⃣ Clone the Repository
+### 2️⃣ **Clone the Repository**
 ```sh
   git clone https://github.com/your-username/meta-backend-capstone.git
   cd meta-backend-capstone
 ```
 
-### 3️⃣ Set Up Environment Variables 
+### 3️⃣ **Set Up Environment Variables** 
 Create a .env file and configure it based on .env.example.
 
-### 4️⃣ Run the Server
+### 4️⃣ **Run the Server**
 ```sh
   python manage.py runserver
 ```
