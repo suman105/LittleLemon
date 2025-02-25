@@ -20,7 +20,7 @@ This repository contains the Capstone Project for the **Meta Back-End Developer*
 
 ## 💻 **Getting Started**
 
-### 1️⃣ Prerequisites
+### 1️⃣ ***Prerequisites***
 Ensure you have the following installed:
 - Python
 - PostgreSQL / MySQL (as per project database)
