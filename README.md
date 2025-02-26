@@ -34,7 +34,7 @@ Ensure you have the following installed:
 ```
 
 ### 3️⃣ **Set Up Environment Variables** 
-Create a .env file and configure it based on .env.example.
+Create a `.env` file and configure it based on `.env.example`.
 
 ### 4️⃣ **Run the Server**
 ```sh
