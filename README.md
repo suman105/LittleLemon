@@ -57,20 +57,6 @@ To deploy using Docker:
 ```
 Or deploy to AWS/Heroku following respective guidelines.
 
-## 🤝 **Contributions**
-Contributions are welcome! Feel free to fork this repository, suggest improvements, or add alternative solutions. To contribute:
-1. Fork the repository.
-2. Create a new branch.
-   ```sh
-   git checkout -b feature-xyz
-3. Commit your changes.
-   ```sh
-   git commit -m "Add new feature"
-4. Push to your fork.
-   ```sh
-   git push origin feature-xyz
-5. Open a pull request.
-
 ## ⭐ **Show Some Support**
 If you find this repository helpful, consider giving it a star ⭐ on GitHub. Your support motivates me to continue improving and adding more solutions! 🚀
 
