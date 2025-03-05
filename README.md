@@ -60,4 +60,4 @@ Or deploy to AWS/Heroku following respective guidelines.
 ## ⭐ **Show Some Support**
 If you find this repository helpful, consider giving it a star ⭐ on GitHub. Your support motivates me to continue improving and adding more solutions! 🚀
 
-Happy Querying! 🖥️📊
+Happy Coding! 🖥️📊
