@@ -1,6 +1,6 @@
 # **Meta Back-End Developer Capstone Project**
 
-Welcome to my **LeetCode 75** solution repository! This repository contains well-structured, optimized **C++** solutions to all **LeetCode 75** problems, along with detailed explanations for each problem to enhance your understanding.
+Welcome to my **Meta Back-End Developer Capstone Project** solution repository! This repository contains solution for the project.
 
 ## 📌 **Project Overview** 
 This repository contains the Capstone Project for the **Meta Back-End Developer** course on Coursera. The project demonstrates proficiency in back-end development, covering key concepts such as:
